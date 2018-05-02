@@ -5,6 +5,7 @@ public abstract class Human
     protected String name;
     protected int age;
     protected int experience;
+    protected int points;
 
     public void displayInfo()
     {

@@ -9,6 +9,7 @@ public class Skilled extends Human
         name=_name;
         age=_age;
         experience=_experience;
+        points=0;
     }
 
     public boolean makeShot()
